@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="photo.png" width="180" style="border-radius: 50%;" />
+<img src="photo.jpg" width="180" style="border-radius: 50%;" />
 
 # Drestanto Muhammad Dyasputro
 
