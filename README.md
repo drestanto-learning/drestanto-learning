@@ -1,35 +1,46 @@
-# Hi, I'm Drestanto Muhammad Dyasputro
+<div align="center">
 
-## Lecturer at Cakrawala University  
-Head of Computer Science Program
+<img src="photo.png" width="180" style="border-radius: 50%;" />
 
-I am a computer science lecturer and academic leader with a strong focus on **Distributed Systems** and **Quantum Computing**. My work bridges theoretical foundations and practical system design, combining research-driven thinking with real-world engineering experience.
+# Drestanto Muhammad Dyasputro
 
-With a background in software engineering and technical leadership, I am particularly interested in building scalable systems, optimization models, and exploring quantum approaches to complex computational problems.
+### 🎓 Lecturer at Cakrawala University  
+### 🏛 Head of Computer Science Program
 
----
-
-## Research & Academic Interests
-
-- Distributed Systems Architecture  
-- Fault-Tolerant & Scalable Computing  
-- Quantum Optimization  
-- Hybrid Classical–Quantum Algorithms  
-- Computational Complexity  
+</div>
 
 ---
 
-## Technical Stack
+## 👨‍🏫 About Me
 
-- **Python**
-- **JavaScript**
-- **Nginx**
-- System Architecture & Backend Engineering
-- Research-Oriented Prototyping
+I am a computer science lecturer and academic leader with a strong focus on **Distributed Systems** and **Quantum Computing**.
+
+My work bridges theoretical foundations and practical system design, combining research-driven thinking with real-world engineering experience. I am particularly interested in scalable architectures, optimization models, and hybrid classical–quantum approaches for solving complex computational problems.
 
 ---
 
-## Current Focus
+## 🔬 Research & Academic Interests
+
+- ⚙️ Distributed Systems Architecture  
+- 🛡 Fault-Tolerant & Scalable Computing  
+- 🧮 Quantum Optimization  
+- 🔗 Hybrid Classical–Quantum Algorithms  
+- 📊 Computational Complexity  
+
+---
+
+## 💻 Technical Stack
+
+<p align="left">
+🐍 Python <br>
+🌐 JavaScript <br>
+🚀 Nginx <br>
+🧱 Backend & System Architecture
+</p>
+
+---
+
+## 🚀 Current Focus
 
 - Advancing research in distributed computing models  
 - Exploring practical implementations of quantum algorithms  
@@ -38,12 +49,25 @@ With a background in software engineering and technical leadership, I am particu
 
 ---
 
-## Professional Objective
+## 🤝 Professional Objective
 
-Open to research collaborations, academic partnerships, and industry opportunities in distributed systems, backend engineering, and emerging quantum technologies.
+Open to research collaborations, academic partnerships, and industry opportunities in:
+
+- Distributed Systems  
+- Backend Engineering  
+- Emerging Quantum Technologies  
 
 ---
 
-## Contact
+## 📫 Contact
 
-Instagram: https://instagram.com/dresdyas
+📷 Instagram:  
+👉 https://instagram.com/dresdyas
+
+---
+
+<div align="center">
+
+✨ *Engineering scalable systems today while exploring the quantum systems of tomorrow.*
+
+</div>
