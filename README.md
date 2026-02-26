@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Drestanto Muhammad Dyasputro
 
-<!--
-**drestanto-learning/drestanto-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lecturer at Cakrawala University  
+Head of Computer Science Program
 
-Here are some ideas to get you started:
+I am a computer science lecturer and academic leader with a strong focus on **Distributed Systems** and **Quantum Computing**. My work bridges theoretical foundations and practical system design, combining research-driven thinking with real-world engineering experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in software engineering and technical leadership, I am particularly interested in building scalable systems, optimization models, and exploring quantum approaches to complex computational problems.
+
+---
+
+## Research & Academic Interests
+
+- Distributed Systems Architecture  
+- Fault-Tolerant & Scalable Computing  
+- Quantum Optimization  
+- Hybrid Classical–Quantum Algorithms  
+- Computational Complexity  
+
+---
+
+## Technical Stack
+
+- **Python**
+- **JavaScript**
+- **Nginx**
+- System Architecture & Backend Engineering
+- Research-Oriented Prototyping
+
+---
+
+## Current Focus
+
+- Advancing research in distributed computing models  
+- Exploring practical implementations of quantum algorithms  
+- Designing scalable academic and research systems  
+- Developing computational optimization frameworks  
+
+---
+
+## Professional Objective
+
+Open to research collaborations, academic partnerships, and industry opportunities in distributed systems, backend engineering, and emerging quantum technologies.
+
+---
+
+## Contact
+
+Instagram: https://instagram.com/dresdyas
